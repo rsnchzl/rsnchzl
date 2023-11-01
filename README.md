@@ -30,4 +30,14 @@
   </div>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rsnchzl)](https://git.io/streak-stats)
+---
+
+---
+
+### 📊 My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rsnchzl&theme=onedark)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rsnchzl&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
