@@ -9,6 +9,6 @@
 
 - 📝 I'm currently studying for the OSCP Offensive Security certification.
 
-- 📫 You can follow me on [Instagram][https://www.instagram.com/rsnchzl/]
+- 📫 You can follow me on [Instagram](https://www.instagram.com/rsnchzl/)
 
 - 🌱 I’m currently learning **React.js**
