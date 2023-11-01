@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <!--img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" /-->
+    <img src="https://media1.giphy.com/media/14kdiJUblbWBXy/giphy.gif?cid=ecf05e47es39rt308pzrcivhkr792cj4pw5qk66ur1697qg7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" />
     <h1 align="center">Hi 👋, I'm Raúl Sánchez</h1>
     <h3 align="center">A cybersecurity, pentesting and ethical hacking enthusiast focused on the Red Team.</h3>
 </div>
