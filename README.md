@@ -36,7 +36,6 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rsnchzl&theme=onedark)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rsnchzl&show_icons=true&theme=radical)
 
