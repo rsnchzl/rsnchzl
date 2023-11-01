@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I'm currently studying for the OSCP Offensive Security certification.
+- 📝 I'm currently studying for the **OSCP** Offensive Security certification.
 
 - 📸 You can follow me on [Instagram](https://www.instagram.com/rsnchzl/)
 
