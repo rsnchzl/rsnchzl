@@ -1,14 +1,14 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm Carlos</h1>
-    <h3 align="center">A passionate fullstack web developer from México. I like Laravel.</h3>
+    <!--img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" /-->
+    <h1 align="center">Hi 👋, I'm Raúl Sánchez</h1>
+    <h3 align="center">A cybersecurity, pentesting and ethical hacking enthusiast focused on the Red Team.</h3>
 </div>
 ---
 
 ### 👨‍💻 About Me :
 
-- 📝 I work as a full stack web developer
+- 📝 I'm currently studying for the OSCP Offensive Security certification.
 
-- 📫 How to reach me **carlos.develops@gmail.com**
+- 📫 You can follow me on [Instagram][https://www.instagram.com/rsnchzl/]
 
 - 🌱 I’m currently learning **React.js**
